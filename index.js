@@ -74,7 +74,7 @@ function checkAgeValidity() {
      const password = document.getElementById('password').value;
      const dob = document.getElementById('dob').value;
      const acceptedTermsAndConditions = document.getElementById('acceptTerms').checked;
- 
+  
      const entry={
         name,
         email,
